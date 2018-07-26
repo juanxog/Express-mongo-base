@@ -1,0 +1,20 @@
+{
+  "name": "Productx",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js",
+    "live": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.5",
+    "morgan": "^1.9.0"
+  }
+}
