@@ -1,5 +1,5 @@
 {
-  "name": "Productx",
+  "name": "AIDU",
   "version": "1.0.0",
   "repository": {
     "type": "git",
@@ -15,6 +15,7 @@
     "express": "^4.16.3",
     "jsonwebtoken": "^8.3.0",
     "mongoose": "^5.2.5",
-    "morgan": "^1.9.0"
+    "morgan": "^1.9.0",
+    "nodemon": "1.18.7"
   }
 }
